@@ -90,4 +90,3 @@ exports.sendMail = (req, res, next) => {
         }
     });
 }
-// SENDER_USERNAME=anupkumar.bid@learningmate.com SENDER_PASSWORD=!Aworker2#94 node server.js
